@@ -1,10 +1,7 @@
 <h1>Shah Jalal Hridoy</h1>
 
 #### Software Engineer
-<img style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;" src="https://imjalal.com/image/shah.gif" alt="shahjalalhridoy" />
+<img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src="https://imjalal.com/image/shah.gif" alt="shahjalalhridoy" />
 
 <h4>Hi 👋 I am Shah Jalal, a software engineer with 5+ years of experience in the industry, having completed 100+ projects for personal and Enterprise requirements with the latest technologies. I deeply understand the entire software development life cycle, from requirements gathering to deployment and maintenance. My technical skills include proficiency in multiple programming languages, database design, and software architecture.</h4>
 
