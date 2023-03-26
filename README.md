@@ -1,7 +1,7 @@
-<h1 align="center">Shah Jalal Hridoy [Software Engineer]</h1>
+<h1>Shah Jalal Hridoy</h1>
 
 #### Software Engineer
-![Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Engineer]<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
 
 <h4>Hi 👋 I am Shah Jalal, a software engineer with 4+ years of experience in the industry, having completed 100+ projects for personal and Enterprise requirements with the latest technologies. I deeply understand the entire software development life cycle, from requirements gathering to deployment and maintenance. My technical skills include proficiency in multiple programming languages, database design, and software architecture.</h4>
 
