@@ -1,7 +1,7 @@
 <h1>Shah Jalal Hridoy</h1>
 
 #### Software Engineer
-![Software Engineer]<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p>
+![Software Engineer](https://imjalal.com/image/shah.gif)
 <h4>Hi 👋 I am Shah Jalal, a software engineer with 5+ years of experience in the industry, having completed 100+ projects for personal and Enterprise requirements with the latest technologies. I deeply understand the entire software development life cycle, from requirements gathering to deployment and maintenance. My technical skills include proficiency in multiple programming languages, database design, and software architecture.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahjalalhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="shahjalalhridoy" /> </p>
