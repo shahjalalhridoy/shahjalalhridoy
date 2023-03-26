@@ -1,4 +1,4 @@
-<h1>Shah Jalal Hridoy</h1>
+<h1 align="center">Shah Jalal Hridoy [Software Engineer]</h1>
 
 #### Software Engineer
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src="https://imjalal.com/image/shah.gif" alt="shahjalalhridoy" />
